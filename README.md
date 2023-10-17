@@ -15,4 +15,14 @@ colabのセッションが切れると非公開になる上URLも変化してし
 
 ### 使い方
 
-EkakiYomi.i
+EkakiYomiフォルダーをダウンロードしてGoogleDriveのMyDriveに保存
+
+EkakiYomi.ipynbを開いて上から順に実行する
+
+以上！
+
+app.pyの中身を書き換えれば自由にウェブアプリが出来ます。
+
+（元々はFireBaseStorage等をデータベースとして使っていましたが、他の人がすぐ動かせる様に
+
+今回はdriveに設置したdataフォルダー内に他の人が描いた絵を直接ぶち込んでいます。）
